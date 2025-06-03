@@ -3,3 +3,5 @@ MANGOES
 KIWI
 CARROT
 GRAPES
+Mango
+Tomato
